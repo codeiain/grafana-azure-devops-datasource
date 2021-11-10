@@ -6,6 +6,7 @@ Azure Devops Datasource for Grafana. Gets stats from Azure devops into Grafana.
 
 NOTE: This is a work in progress and not intended to be used anywhere in production. No warranty or guarantee provided. 
 
+
 ## Template Variables
 
 The Azure Devops data source Plugin provides the following queries you can specify in the Query field in the variable edit view. They allow you to fill a variable’s options list. 
